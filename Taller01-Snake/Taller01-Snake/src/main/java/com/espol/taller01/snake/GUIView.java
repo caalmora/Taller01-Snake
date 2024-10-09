@@ -63,9 +63,9 @@ public class GUIView extends JPanel {
 
 		// Create a new button on that panel and add a StartGameListener as
 		// listener on that button
-		this.startGameButton = new JButton("Let’s Go!!!”");
-		this.startGameButton.addActionListener(new StartGameListener());
-		this.guiPanel.add(this.startGameButton);
+		this.jugar = new JButton("Start Game");
+		this.jugar.addActionListener(new StartGameListener());
+		this.guiPanel.add(this.jugar);
 
 		// Create a new choice on the panel, and add all available games
 		this.gameChooser = new JComboBox(this.gameFactory.getGameNames());
