@@ -1,2 +1,2 @@
 # Taller01-Snake
-![Alt text](https://assets.digitalocean.com/articles/alligator/boo.svg "Prueba Imagen")
+![Alt text](file:///C:/Users/cesar/Pictures/Screenshots/Error%201.png "Prueba Imagen")
